@@ -2,34 +2,47 @@
 Inferential Statistics project (PGP-DS, Great Lakes × UT Austin) | Scored 60/60
 # Inferential Statistics Project (PGP-DS)
 
-## 📌 Project Overview
+#  Inferential Statistics Project (PGP-DS)
+
+##  Project Overview
 This project was completed as part of my Post Graduate Program in Data Science (Great Lakes × UT Austin).  
-I achieved a score of **60/60**.  
-The project applied inferential statistics techniques to real-world business problems, combining probability concepts with hypothesis testing.
+**Score:** 60/60  
+Applied inferential statistics techniques—hypothesis testing, probability models, confidence intervals—to uncover insights from real-world business data.
 
 ---
 
-## 🛠️ Tech Stack
-- Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn)  
-- Jupyter Notebook  
+##  Tech Stack
+- Python (**pandas**, **numpy**, **scipy**, **statsmodels**, **matplotlib**, **seaborn**)  
+- Jupyter Notebook
 
 ---
 
-## 📊 Methods & Techniques
-- Hypothesis Testing (t-test, Chi-Square, ANOVA)  
-- Confidence Intervals  
-- Probability Distributions  
-- P-value interpretation  
+##  Methods & Techniques
+- Hypothesis Testing: t-test, Chi-Square, ANOVA  
+- Confidence Intervals & P-Value interpretation  
+- Probability Distributions analysis
 
 ---
 
-## 📂 Files
-- `Supporting_file_Kanimozhi_IS.ipynb` → Jupyter Notebook with code and analysis  
-- `Business_report_IS_Kanimozhi.pdf` → Formal business report with findings  
+##  Results
+- Validated or rejected hypotheses at a 95% confidence level  
+- Distilled actionable business insights from statistical evidence  
+- **Scored 60/60** in assessment
 
 ---
 
-## ✅ Results
-- Validated/rejected hypotheses with 95% confidence level  
-- Delivered business insights from statistical analysis  
-- Scored **60/60** in evaluation  
+##  Files
+- `Supporting_file_Kanimozhi_IS.ipynb` → Notebook with code and analysis  
+- `Business_report_IS_Kanimozhi.pdf` → Polished business report outlining findings
+
+---
+
+##  Viewing Instructions
+Open the Jupyter Notebook to explore the code, or scroll the PDF for a narrative summary of the results.
+
+---
+
+##  Key Learnings
+- Mastered the logic of hypothesis testing and statistical inference  
+- Sharpened storytelling—turning numbers into strategic decisions  
+- Honed documentation skills to present analysis clearly and concisely
